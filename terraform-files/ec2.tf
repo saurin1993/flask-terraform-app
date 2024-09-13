@@ -20,6 +20,3 @@ resource "aws_instance" "website" {
     Name = "my-python-app"
   }
 }
-
-
-//URL - http://my-python-app-ls-487385036.us-east-1.elb.amazonaws.com/
